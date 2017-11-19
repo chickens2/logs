@@ -1,0 +1,6 @@
+05:53:03: <seal>  /r/ing op
+05:53:36: <theclinger> I forgot how to unban.
+05:53:56: <seal>  /mode #mlas2 -b  *!*@no-djr.ad8.h3301v.IP
+05:54:16: <seal> whoops, put in an extra space there
+05:54:17: <seal> whatever
+05:54:26: <theclinger> Whitespace dosen't matter.

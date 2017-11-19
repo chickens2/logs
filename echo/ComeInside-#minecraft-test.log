@@ -1,0 +1,59 @@
+**** BEGIN LOGGING AT Sat Dec 07 12:43:57 2013
+
+Dec 07 12:43:57 *	Now talking on #minecraft-test
+Dec 07 12:44:14 <derram>	having trouble getting it working :I
+Dec 07 12:44:27 <derram>	http://i.imgur.com/QBSr3dY.png
+Dec 07 12:44:33 <derram>	that's kinda workiing
+Dec 07 12:46:56 *	M has quit (Quit: [PurpleIRC] Good bye!)
+Dec 07 12:47:02 <NoteAss>	huh
+Dec 07 12:47:33 <derram>	poking at it some more
+Dec 07 12:49:43 *	M (minecraf@ci-brg.fc4.ojrkp3.IP) has joined
+Dec 07 12:50:04 <M>	[world] derram joined the game.
+Dec 07 12:50:12 <M>	[world] ***derram  pokes noteass
+Dec 07 12:50:17 <M>	[Global]<derram> Weee!
+Dec 07 12:50:17 <NoteAss>	hi
+Dec 07 12:50:25 <M>	[Global]<derram> fixed that
+Dec 07 12:50:36 <NoteAss>	not individual users :|
+Dec 07 12:50:38 <M>	[Global]<derram> now to make it switch
+Dec 07 12:50:56 <M>	[Local]<derram> beep
+Dec 07 12:51:02 <M>	[Local]<derram> :I
+Dec 07 12:51:27 <M>	[Local]<derram> hmm
+Dec 07 12:51:52 <M>	[derram]<derram> I:
+Dec 07 12:52:14 <M>	[world] ***derram  filps the server
+Dec 07 12:52:35 *	M has quit (Quit: [PurpleIRC] Good bye!)
+Dec 07 12:55:29 <derram>	hmm
+Dec 07 12:55:36 <derram>	I don't think titanchat is gonna work 
+Dec 07 12:55:50 <derram>	doesn't look like there's a way to switch channels easily with it anyway
+Dec 07 13:37:31 *	M (minecraf@ci-brg.fc4.ojrkp3.IP) has joined
+Dec 07 13:37:45 <M>	[world] derram joined the game.
+Dec 07 13:37:49 <M>	[Global]<derram> beep
+Dec 07 13:37:56 <derram>	boop
+Dec 07 13:42:44 *	M has quit (Quit: [PurpleIRC] Good bye!)
+Dec 07 13:42:47 *	M (minecraf@ci-brg.fc4.ojrkp3.IP) has joined
+Dec 07 13:42:55 <M>	[Global]<derram> beep
+Dec 07 13:54:46 <M>	[Global]<derram> this is annoying :I
+Dec 07 13:54:58 <derram>	^
+Dec 07 13:57:34 <M>	[Global]<derram> beep
+Dec 07 14:03:24 <M>	[Global]<derram> and this doesn't have an easy way to switch either
+Dec 07 14:03:36 <M>	[Global]<derram> might just have to wait for mcmmo to update
+Dec 07 14:16:50 <M>	[Global]<derram> beep
+Dec 07 14:17:33 <M>	[world] derram left the game.
+**** ENDING LOGGING AT Sat Dec 07 15:34:37 2013
+
+**** BEGIN LOGGING AT Sun Dec 08 01:59:23 2013
+
+Dec 08 01:59:23 *	Now talking on #minecraft-test
+Dec 08 01:59:27 <NoteAss>	sup
+Dec 08 01:59:47 <derram>	gotta join to test berry :3
+Dec 08 02:00:29 <M>	[world] flare561 joined the game.
+Dec 08 02:00:34 <M>	[world]<flare561> beep
+Dec 08 02:00:41 <M>	[world]<flare561> ~test
+Dec 08 02:00:43 <derram>	!test
+Dec 08 02:00:43 <BP>	The Enrichment Center promises to always provide a safe testing environment. In dangerous testing environments, the Enrichment Center promises to always provide useful advice. For instance: the floor here will kill you. Try to avoid it.
+Dec 08 02:00:52 <M>	[world]<flare561> yeah that ain't going to work
+Dec 08 02:00:59 <M>	[world]<flare561> he world in front is fucking it up
+Dec 08 02:01:02 <M>	[world]<flare561> need to remove taht
+Dec 08 02:01:03 <derram>	hmm, looks like I'll have to edit the messages 
+Dec 08 02:01:13 <M>	[world] flare561 left the game.
+Dec 08 02:01:20 <derram>	yeah, it's got a. bit of work :I 
+Dec 08 02:01:44 <derram>	thanks! 

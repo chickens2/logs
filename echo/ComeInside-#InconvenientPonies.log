@@ -1,0 +1,218 @@
+**** BEGIN LOGGING AT Tue May 27 23:58:29 2014
+
+May 27 23:58:29 *	Now talking on #InconvenientPonies
+May 27 23:58:43 *	NoteAss_S (SteamBot@76561197995376581) has joined
+May 27 23:58:46 <NoteAss_S>	eh?
+May 27 23:58:48 <NoteAss_S>	eh?
+May 27 23:58:51 <Echo>	eh?
+May 27 23:58:59 <Echo>	Saltbearer, pls
+May 27 23:59:51 *	derram (derram@Pink.pony.is.best) has joined
+May 27 23:59:53 *	Steam has quit (Connection closed)
+May 27 23:59:53 *	NoteAss_S has quit (Connection closed)
+May 28 00:00:31 *	Steam (SteamBot@adery-5ra.m6u.lonlrj.IP) has joined
+May 28 00:00:33 *	NoteAss_p (SteamBot@76561197995376581) has joined
+May 28 00:00:39 <NoteAss_p>	there
+May 28 00:00:44 <NoteAss_p>	now it shouldn't be an issue
+May 28 00:01:50 *	NoteAss_p has quit (Quit: Left chat.)
+May 28 00:10:30 *	QuoteBot_ (QuoteBot@adery-5ra.m6u.lonlrj.IP) has joined
+May 28 00:10:36 <Echo>	oh yeah the nick
+May 28 00:10:40 *	QuoteBot_ has quit (Connection closed)
+May 28 00:11:05 *	QuoteBotJr (QuoteBotJr@adery-5ra.m6u.lonlrj.IP) has joined
+May 28 00:12:16 <Echo>	okay salty it's all up and running
+May 28 00:12:48 <Saltbearer>	EVERYTHING IS CORN FOREVER 
+May 28 00:20:45 <Saltbearer>	fart
+May 28 00:20:51 *	Zeal_p (SteamBot@76561197996982775) has joined
+May 28 00:20:57 <Zeal_p>	oh hi IRC
+May 28 00:21:00 <Saltbearer>	I FART ZEALS
+May 28 00:21:18 <Zeal_p>	now salt can speech to friends :)
+May 28 00:21:22 *	Saltbearer has changed the topic to: incpo bestpo
+May 28 00:21:51 <Zeal_p>	friends a poneis
+May 28 00:23:02 <derram>	should be able to kick people in the steam chat with the bot 
+May 28 00:23:04 <Saltbearer>	Tell Ingur to here
+May 28 00:23:21 <derram>	gotta promote it first, though 
+May 28 00:23:24 <Saltbearer>	o
+May 28 00:23:33 *	Saltbearer gives channel operator status to Steam
+May 28 00:23:46 <derram>	hehe
+May 28 00:23:54 <derram>	on steam, not here 
+May 28 00:23:59 <Saltbearer>	o
+May 28 00:24:05 <Saltbearer>	ECHO PLS
+May 28 00:24:34 <Saltbearer>	wait
+May 28 00:24:37 <Saltbearer>	I dum
+May 28 00:24:46 <derram>	;3
+May 28 00:26:32 *	derram pokes zeal 
+May 28 00:26:39 <derram>	needs some tests 
+May 28 00:26:55 <derram>	try typing  !ls
+May 28 00:27:05 <Saltbearer>	where's the bot
+May 28 00:27:07 <Saltbearer>	on Steam
+May 28 00:27:17 <derram>	and then also do a !topic 
+May 28 00:27:17 <Saltbearer>	invite it to group
+May 28 00:28:05 <derram>	hmm, gotta join the group manually 
+May 28 00:28:11 *	derram pokes flare 
+May 28 00:28:24 <Saltbearer>	yeah thing
+May 28 00:28:26 <Echo>	wat?
+May 28 00:28:56 <derram>	the bot is a guest in salt's chat 
+May 28 00:29:01 <Zeal_p>	o ok
+May 28 00:29:08 <derram>	he needs it to join the group so he can promote it 
+May 28 00:29:26 <Zeal_p>	"IRC" is already a member
+May 28 00:29:26 *	Steam has quit (Connection closed)
+May 28 00:29:26 *	Zeal_p has quit (Connection closed)
+May 28 00:29:42 <derram>	testing the bells and whistles to make sure it doesn't toss out our topic or something 
+May 28 00:30:06 *	Steam (SteamBot@adery-5ra.m6u.lonlrj.IP) has joined
+May 28 00:30:11 *	Zeal_p (SteamBot@76561197996982775) has joined
+May 28 00:30:31 <Saltbearer>	test kick
+May 28 00:30:34 *	NoteAss_p (SteamBot@76561197995376581) has joined
+May 28 00:30:49 <Echo>	satly I recommend giving it a gold star so it can hand out bans rather than just kicks
+May 28 00:30:51 <Saltbearer>	!kick Zeal
+May 28 00:30:52 <derram>	 /kick NoteAss_p 
+May 28 00:31:05 <Saltbearer>	!kick Zeal_p
+May 28 00:31:14 <Echo>	do a real kick salt
+May 28 00:31:16 <derram>	forward slash :I 
+May 28 00:31:17 *	Saltbearer has kicked NoteAss_p from #InconvenientPonies (Saltbearer)
+May 28 00:31:17 *	NoteAss_p (SteamBot@76561197995376581) has joined
+May 28 00:31:28 <Echo>	can't kick me I'm also a moderator apperently
+May 28 00:31:30 <Echo>	kick Zeal
+May 28 00:31:39 <derram>	did you promote it? 
+May 28 00:31:42 <Echo>	/kick Zeal_p 
+May 28 00:31:43 <derram>	hah
+May 28 00:31:59 <Saltbearer>	Well it should work anyway :v
+May 28 00:32:07 <Echo>	moderators can't kick other moderators
+May 28 00:32:11 *	Saltbearer sets ban on NoteAss_p!*@*
+May 28 00:32:14 <Echo>	just the way steam works
+May 28 00:32:15 <derram>	topic and user list working? 
+May 28 00:32:43 <Echo>	and it needs to be an officer or whatever to ban
+May 28 00:33:12 <Saltbearer>	Chat ban?
+May 28 00:33:25 <Saltbearer>	thought I set chat ban to mod
+May 28 00:34:14 *	Ripazhakgggdkp_p (SteamBot@76561198023057294) has joined
+May 28 00:34:15 <Saltbearer>	yup
+May 28 00:34:17 <Ripazhakgggdkp_p>	oh
+May 28 00:34:39 <Ripazhakgggdkp_p>	Hello
+May 28 00:34:54 <Echo>	oh perhaps you can change it actually
+May 28 00:35:03 <Saltbearer>	Bunny milk!
+May 28 00:35:23 <Echo>	still can't ban me salt because I'm an officer, you'll have to make the others your guinnea pigs
+May 28 00:36:49 <Echo>	though you should unban my bot from the channel
+May 28 00:37:19 <derram>	Won't be banned, but still won't be able to talk on IRC 
+May 28 00:37:25 <Echo>	^
+May 28 00:37:48 <Ripazhakgggdkp_p>	So what's this irc thing
+May 28 00:37:59 <Saltbearer>	how
+May 28 00:39:15 <derram>	it's an irc bot connected to a server
+May 28 00:39:34 <derram>	Mobil steam can't group chat 
+May 28 00:39:44 <Ripazhakgggdkp_p>	Oh, okay
+May 28 00:40:19 <Echo>	/unban NoteAss_p!*@*
+May 28 00:40:22 <derram>	you can type !ls for a list of people over here 
+May 28 00:40:36 *	Saltbearer removes ban on NoteAss_p!*@*
+May 28 00:40:41 <NoteAss_p>	danke
+May 28 00:40:43 <derram>	still dunno if all that is working 
+May 28 00:40:56 <Saltbearer>	.yt ripazhakgggdkp
+May 28 00:40:56 <BP>	https://youtu.be/TvZwR9eZQHg > OHHHHHHHHHHHHHHHHHHH | 30 | 100% | 0:00:10
+May 28 00:41:19 <NoteAss_p>	I dunno all looks fine to me
+May 28 00:41:33 <Echo>	I do like to think I know what I'm doing
+May 28 00:41:35 <derram>	topic too? 
+May 28 00:42:00 *	Saltbearer gives channel operator status to Steam
+May 28 00:42:04 <derram>	first time we've done this, gotta make sure it all works! 
+May 28 00:42:19 <Saltbearer>	does that need to be a thing for things
+May 28 00:42:24 <derram>	nah 
+May 28 00:42:42 *	Saltbearer gives channel operator status to QuoteBotJr
+May 28 00:42:43 <derram>	we never got around to adding kick and ban commands for the steam side 
+May 28 00:42:49 *	Saltbearer gives channel operator status to BP
+May 28 00:43:05 <Echo>	yeah topic is fine
+May 28 00:43:23 <Saltbearer>	bots out of the way at least
+May 28 00:43:43 <Saltbearer>	hmm
+May 28 00:43:50 *	Saltbearer gives voice to BP
+May 28 00:43:56 *	Saltbearer removes channel operator status from BP
+May 28 00:44:04 *	Saltbearer gives voice to Steam
+May 28 00:44:06 *	Saltbearer removes channel operator status from Steam
+May 28 00:44:11 *	Saltbearer gives voice to QuoteBotJr
+May 28 00:44:13 *	Saltbearer removes channel operator status from QuoteBotJr
+May 28 00:44:50 <derram>	flare, you're terrible at short names 
+May 28 00:45:11 <Zeal_p>	hrrrgh gotta get used to people talking
+May 28 00:45:18 *	Syni_p (SteamBot@76561198032979058) has joined
+May 28 00:45:27 <Echo>	who said it had to be short?
+May 28 00:45:27 <Syni_p>	hello incopon
+May 28 00:45:44 <derram>	\\b03
+May 28 00:45:44 <BP>	http://adery.net/emote/b03/
+May 28 01:02:43 <Saltbearer>	http://fc03.deviantart.net/fs70/i/2011/354/c/f/the_legend_of_shandaran_by_chernigiv-d4jq09u.jpg
+May 28 01:04:21 <Saltbearer>	http://i.imgur.com/SC968w6.jpg
+May 28 01:05:40 <Saltbearer>	If I op someone is it permanent
+May 28 01:06:14 <derram>	until you remove it or they quit 
+May 28 01:06:33 <Saltbearer>	hwo 2 perma
+May 28 01:06:41 <derram>	if you want it to be permanent you have to tell PonyServ to do it 
+May 28 01:07:38 <derram>	 /msg PonyServ +O #incop nick 
+May 28 01:07:52 <derram>	I think that's it, at least 
+May 28 01:14:17 <Saltbearer>	http://i.imgur.com/iilmYrD.jpg
+May 28 01:42:11 *	Ripazhakgggdkp_p has quit (Quit: Left chat.)
+May 28 01:55:32 *	NoteAss_p has quit (Quit: Left chat.)
+May 28 01:58:09 *	Syni_p has quit (Quit: Left chat.)
+May 28 01:58:18 *	Syni_p (SteamBot@76561198032979058) has joined
+May 28 01:59:32 *	Syni_p has quit (Quit: Disconnected from chat.)
+**** ENDING LOGGING AT Wed May 28 05:23:13 2014
+
+**** BEGIN LOGGING AT Wed May 28 05:23:13 2014
+
+**** ENDING LOGGING AT Wed May 28 05:24:06 2014
+
+**** BEGIN LOGGING AT Wed May 28 05:24:06 2014
+
+**** ENDING LOGGING AT Wed May 28 06:03:01 2014
+
+**** BEGIN LOGGING AT Mon Jun 02 03:52:03 2014
+
+Jun 02 03:52:03 *	Now talking on #InconvenientPonies
+Jun 02 03:52:03 *	Topic for #InconvenientPonies is: incpo bestpo | http://cytu.be/r/incpo
+Jun 02 03:52:03 *	Topic for #InconvenientPonies set by Saltbearer (Sat May 31 00:23:41 2014)
+Jun 02 03:52:12 <Echo>	hey I'm restarting your steambot quick hope you don't mind!
+Jun 02 03:52:27 *	Steam has quit (Connection closed)
+Jun 02 03:52:28 *	Zeal_p has quit (Connection closed)
+Jun 02 03:52:28 *	Doomstruck_p has quit (Connection closed)
+Jun 02 03:52:28 *	Syni_p has quit (Connection closed)
+Jun 02 03:52:33 *	Steam (SteamBot@adery-5ra.m6u.lonlrj.IP) has joined
+Jun 02 03:52:38 *	Zeal_p (SteamBot@76561197996982775) has joined
+Jun 02 03:52:38 *	Doomstruck_p (SteamBot@76561197999563951) has joined
+Jun 02 03:52:38 *	Syni_p (SteamBot@76561198032979058) has joined
+Jun 02 03:52:42 <Echo>	oh good you're back!
+Jun 02 03:54:25 *	You are now known as NoteAss_s
+Jun 02 03:54:25 *	Steam has quit (Connection closed)
+Jun 02 03:54:25 *	Zeal_p has quit (Connection closed)
+Jun 02 03:54:25 *	Doomstruck_p has quit (Connection closed)
+Jun 02 03:54:25 *	Syni_p has quit (Connection closed)
+Jun 02 03:54:26 *	Steam (SteamBot@adery-5ra.m6u.lonlrj.IP) has joined
+Jun 02 03:54:28 *	Syni_p (SteamBot@76561198032979058) has joined
+Jun 02 03:54:29 *	Zeal_p (SteamBot@76561197996982775) has joined
+Jun 02 03:54:29 *	Doomstruck_p (SteamBot@76561197999563951) has joined
+Jun 02 03:54:33 *	Syni_p has quit (Quit: Left chat.)
+Jun 02 03:54:35 *	You are now known as Echo
+Jun 02 03:54:35 *	Steam has quit (Connection closed)
+Jun 02 03:54:35 *	Zeal_p has quit (Connection closed)
+Jun 02 03:54:35 *	Doomstruck_p has quit (Connection closed)
+Jun 02 03:54:36 *	Steam (SteamBot@adery-5ra.m6u.lonlrj.IP) has joined
+Jun 02 03:54:40 *	Zeal_p (SteamBot@76561197996982775) has joined
+Jun 02 03:54:40 *	Doomstruck_p (SteamBot@76561197999563951) has joined
+Jun 02 03:54:57 *	You are now known as beep
+Jun 02 03:54:57 *	Steam has quit (Connection closed)
+Jun 02 03:54:57 *	Zeal_p has quit (Connection closed)
+Jun 02 03:54:57 *	Doomstruck_p has quit (Connection closed)
+Jun 02 03:54:59 *	Steam (SteamBot@adery-5ra.m6u.lonlrj.IP) has joined
+Jun 02 03:55:02 *	Zeal_p (SteamBot@76561197996982775) has joined
+Jun 02 03:55:02 *	Doomstruck_p (SteamBot@76561197999563951) has joined
+Jun 02 03:56:33 *	Steam has quit (Connection closed)
+Jun 02 03:56:33 *	Zeal_p has quit (Connection closed)
+Jun 02 03:56:33 *	Doomstruck_p has quit (Connection closed)
+Jun 02 03:56:39 *	Steam (SteamBot@adery-5ra.m6u.lonlrj.IP) has joined
+Jun 02 03:56:42 *	Zeal_p (SteamBot@76561197996982775) has joined
+Jun 02 03:56:42 *	Doomstruck_p (SteamBot@76561197999563951) has joined
+Jun 02 03:56:55 *	You are now known as NoteAss_s
+Jun 02 03:57:27 *	You are now known as Echo
+Jun 02 03:58:44 <Echo>	don't worry I fixed it
+**** ENDING LOGGING AT Mon Jun 02 03:58:52 2014
+
+**** BEGIN LOGGING AT Wed Jun 11 02:14:10 2014
+
+Jun 11 02:14:10 *	Now talking on #InconvenientPonies
+Jun 11 02:14:10 *	Topic for #InconvenientPonies is: incpo bestpo | http://cytu.be/r/incpo
+Jun 11 02:14:10 *	Topic for #InconvenientPonies set by Saltbearer (Sat May 31 00:23:41 2014)
+Jun 11 02:14:21 *	Steam has quit (Connection closed)
+Jun 11 02:14:27 *	Steam (SteamBot@adery-5ra.m6u.lonlrj.IP) has joined
+Jun 11 02:15:00 *	NoteAss_p (SteamBot@76561197995376581) has joined
+Jun 11 02:15:03 *	NoteAss_p has quit (Quit: Left chat.)
+Jun 11 02:15:10 <Echo>	neat okay it has picture
+**** ENDING LOGGING AT Wed Jun 11 02:15:14 2014
+
